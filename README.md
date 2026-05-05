@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trisha Rai</h1>
+<h1 align="center">Hi 👋, I'm Julie</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | DSA Learner</h3>
 
 <p align="center">
