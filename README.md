@@ -109,7 +109,7 @@
     <img src="https://img.shields.io/badge/GitHub-julie249-181717?style=for-the-badge&logo=github">
   </a>
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Trisha_Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Julie Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
