@@ -107,8 +107,8 @@ Full Stack Developer | MERN Stack Enthusiast | DSA Learner
 
 ## 📫 Connect With Me
 
-- 📧 Email: your_email@gmail.com  
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK  
+- 📧 Email: rai.julie.993@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/julie-kumari-765693360/  
 
 ---
 
