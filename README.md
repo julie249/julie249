@@ -1,170 +1,127 @@
-<h1 align="center">Hi 👋, I'm Julie Kumari</h1>
+<h1 align="center">Hi 👋, I'm Julie</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack Enthusiast • DSA Learner • DevOps Beginner
+Full Stack Developer | MERN Stack Enthusiast | DSA Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;DSA+Enthusiast;Building+Real+World+Projects;Learning+DevOps+and+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;DSA+Learner;Building+Projects&center=true&width=600&height=50">
 </p>
 
 ---
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech CSE Student at Lovely Professional University (LPU)  
-💻 Passionate Full Stack Developer focused on building impactful applications  
-🧠 Solved 170+ DSA Problems on LeetCode & GFG  
-🌱 Currently learning:
-- Advanced Backend Development
-- DevOps & CI/CD
-- Docker & Jenkins
-- Scalable System Design
-
-🎯 Goal:
-To become a highly skilled Software Engineer and crack top product-based companies.
+- 🎓 B.Tech CSE student at Lovely Professional University  
+- 💻 Interested in Full Stack Web Development  
+- 🧠 Solved 170+ DSA problems  
+- 🚀 Passionate about building real-world applications  
+- 🌱 Currently improving DSA and backend development skills  
+- 🎯 Preparing for software engineering roles  
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
 
-## 🌐 Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-</p>
-
----
-
-## 🗄️ Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-## 🔧 Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jenkins,postman" />
-</p>
-
----
-
-
-
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julie249&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie249&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=julie249&show_icons=true&theme=tokyonight" height="180">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie249&layout=compact&theme=tokyonight" height="180">
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=julie249&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=julie249&theme=tokyonight">
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julie249&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julie249&theme=tokyo-night">
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🌐 Coding Profiles
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julie249&theme=algolia&row=1&column=7&margin-w=15"/>
-</p>
-
----
-
-# 💡 Currently Focusing On
-
-✅ Data Structures & Algorithms  
-✅ Full Stack Development  
-✅ Backend Optimization  
-✅ DevOps & CI/CD  
-✅ Placement Preparation  
-✅ System Design Basics  
-
----
-
-# 🌐 Coding Profiles
-
-<p align="left">
+<p>
 
 <a href="https://github.com/julie249">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 <a href="YOUR_GFG_LINK">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 Email: YOUR_EMAIL@gmail.com  
-
-💼 LinkedIn: YOUR_LINKEDIN_LINK  
-
-🌐 Portfolio: YOUR_PORTFOLIO_LINK  
+- 📧 Email: your_email@gmail.com  
+- 💼 LinkedIn: YOUR_LINKEDIN_LINK  
 
 ---
 
-# 💭 Developer Quote
+## 💡 Quote
 
-<p align="center">
-  
-> "Consistency and discipline create success long before talent does."
-
-</p>
+> “Consistency beats talent when talent does not work hard.”
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=julie249&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=julie249&label=Profile%20Views&color=blueviolet&style=for-the-badge">
 </p>
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
