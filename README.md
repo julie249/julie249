@@ -1,133 +1,170 @@
-<h1 align="center">Hi 👋, I'm Julie</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | DSA Learner</h3>
+<h1 align="center">Hi 👋, I'm Julie Kumari</h1>
+
+<h3 align="center">
+Full Stack Developer • MERN Stack Enthusiast • DSA Learner • DevOps Beginner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;DSA+Learner;Building+Real+World+Projects&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;DSA+Enthusiast;Building+Real+World+Projects;Learning+DevOps+and+Cloud" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 About Me
 
-- 🎓 3rd Year B.Tech CSE student at Lovely Professional University  
-- 💻 Full Stack Developer skilled in MERN Stack, PHP, Laravel and MySQL  
-- 🧠 Solved 170+ DSA problems  
-- 🚀 Passionate about building real-world impactful applications  
-- 🎯 Currently preparing for placements and improving DSA  
-- 🌱 Learning advanced backend development and scalable systems  
+🎓 B.Tech CSE Student at Lovely Professional University (LPU)  
+💻 Passionate Full Stack Developer focused on building impactful applications  
+🧠 Solved 170+ DSA Problems on LeetCode & GFG  
+🌱 Currently learning:
+- Advanced Backend Development
+- DevOps & CI/CD
+- Docker & Jenkins
+- Scalable System Design
+
+🎯 Goal:
+To become a highly skilled Software Engineer and crack top product-based companies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 </p>
 
-### 🌐 Frontend
+---
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+## 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
 </p>
 
-### ⚙️ Backend
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
-### 🗄️ Databases
+---
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+## 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🔧 Tools & Platforms
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Thunder_Client-6A5ACD?style=for-the-badge&logo=thunderbird&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+## 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jenkins,postman" />
 </p>
 
+---
 
-## 📊 GitHub Stats
+
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julie249&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie249&layout=compact&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=julie249&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julie249&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=julie249&theme=radical">
+  <img src="https://streak-stats.demolab.com?user=julie249&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julie249&theme=radical&no-frame=true&row=1&column=6">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julie249&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📌 Current Focus
+# 🏆 GitHub Achievements
 
-- Strengthening Data Structures and Algorithms  
-- Building full-stack projects  
-- Learning scalable backend development  
-- Preparing for placement interviews  
-- Improving problem-solving and system design basics  
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/julie249">
-    <img src="https://img.shields.io/badge/GitHub-julie249-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Julie Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=julie249&theme=algolia&row=1&column=7&margin-w=15"/>
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Currently Focusing On
 
-> “Consistency beats talent when talent does not work hard.”
+✅ Data Structures & Algorithms  
+✅ Full Stack Development  
+✅ Backend Optimization  
+✅ DevOps & CI/CD  
+✅ Placement Preparation  
+✅ System Design Basics  
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="left">
+
+<a href="https://github.com/julie249">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_GFG_LINK">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: YOUR_EMAIL@gmail.com  
+
+💼 LinkedIn: YOUR_LINKEDIN_LINK  
+
+🌐 Portfolio: YOUR_PORTFOLIO_LINK  
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+  
+> "Consistency and discipline create success long before talent does."
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=julie249&label=Profile%20Views&color=blueviolet&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=julie249&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
